@@ -10,3 +10,8 @@ h1{
 p{
     text-align: justify;
 }
+
+img{
+    width: 20%;
+    border: 2pt red solid;
+}
