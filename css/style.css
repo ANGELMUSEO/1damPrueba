@@ -7,11 +7,12 @@ h1{
    background-color: burlywood;
 }
 
-p{
-    text-align: justify;
-}
 
 img{
     width: 20%;
     border: 2pt red solid;
+}
+
+ul{
+    font-size: medium;
 }
